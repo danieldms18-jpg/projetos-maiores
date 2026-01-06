@@ -10,7 +10,7 @@ Só como currículo mesmo!
 
 Códigos mais simples (tipo exercícios) estão em outra pasta.
 
-
+===========================================================
 
 This page is for my portfolio and curriculum only.
 
